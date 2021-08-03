@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="grammar_first_quiz" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Grammar First Quiz - v S072020</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Grammar_First_Quiz_-_v_S072020_ORG">
+    <organization identifier="Grammar_First_Quiz_-_v_S072020_ORG">
+      <title>Grammar First Quiz - v S072020</title>
+      <item identifier="grammar_first_quiz_SCO" isvisible="true" identifierref="_grammar_first_quiz_RES">
+        <title>Grammar First Quiz </title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_grammar_first_quiz_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5nqVoQ8voEV_40_DX412_DY412_CX432_CY230.png" />
+      <file href="mobile/5VNBYQvEzqd_40_DX412_DY412_CX429_CY228.png" />
+      <file href="mobile/6f9UbsPGF81_40_R92D050_DX114_DY114_CX119_CY119.png" />
+      <file href="mobile/6f9UbsPGF81_40_DX114_DY114_CX119_CY119.png" />
+      <file href="mobile/6BbSOIEX35H_40_DX136_DY136_CX128_CY128.png" />
+      <file href="mobile/6f9UbsPGF81_40_R92D050_DX92_DY92_CX96_CY96.png" />
+      <file href="mobile/6f9UbsPGF81_40_DX92_DY92_CX96_CY96.png" />
+      <file href="mobile/6BbSOIEX35H_40_DX114_DY114_CX100_CY100.png" />
+      <file href="mobile/6BbSOIEX35H_40_DX114_DY114_CX119_CY119.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bW6c0dkGGH.js" />
+      <file href="html5/data/js/5c2MiahBeix.js" />
+      <file href="html5/data/js/5cfWy5JRMAc.js" />
+      <file href="html5/data/js/5hmQhmA1h2d.js" />
+      <file href="html5/data/js/5mM2ReCsCCH.js" />
+      <file href="html5/data/js/5omHA2nFY0d.js" />
+      <file href="html5/data/js/5VclnyAg7Pt.js" />
+      <file href="html5/data/js/5vTTlMInaQb.js" />
+      <file href="html5/data/js/5X4Xi8abTep.js" />
+      <file href="html5/data/js/5YvyqncYISm.js" />
+      <file href="html5/data/js/67Slus5go4o.js" />
+      <file href="html5/data/js/69VUI0cqAwv.js" />
+      <file href="html5/data/js/6Ar5paI2ks4.js" />
+      <file href="html5/data/js/6Gr7XjCy5Tk.js" />
+      <file href="html5/data/js/6HaYLKJwRJJ.js" />
+      <file href="html5/data/js/6hUrXKe2XfE.js" />
+      <file href="html5/data/js/6k95nLqHxDB.js" />
+      <file href="html5/data/js/6lyk6gAyKcG.js" />
+      <file href="html5/data/js/6MH47kECWUo.js" />
+      <file href="html5/data/js/6Mju6pBb9vm.js" />
+      <file href="html5/data/js/6pSqHeN5Txy.js" />
+      <file href="html5/data/js/6ZtTA0oiRhb.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
